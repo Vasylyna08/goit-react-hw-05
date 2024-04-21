@@ -1,0 +1,16 @@
+.castList {
+  margin-top: 30px;
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.castItem {
+  display: flex;
+  flex-direction: column;
+  flex-basis: calc((100% - 210px) / 8);
+}
+
+.castName {
+  margin-top: 10px;
+}

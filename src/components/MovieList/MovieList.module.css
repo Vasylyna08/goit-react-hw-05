@@ -1,0 +1,15 @@
+.movieList {
+  margin-top: 20px;
+  margin-left: 35px;
+}
+.moviesLink {
+  color: #646cff;
+  cursor: pointer;
+}
+.moviesLink:visited {
+  color: #00021a;
+}
+
+.moviesLink:hover {
+  color: #0610cc;
+}

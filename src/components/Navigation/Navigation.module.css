@@ -1,0 +1,18 @@
+.header {
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.137);
+}
+.nav {
+  display: flex;
+}
+.navLink {
+  padding: 10px 20px;
+  color: rgba(0, 0, 0, 0.76);
+  font-weight: 700;
+}
+.active {
+  color: rgb(255, 3, 66);
+}
+.navLink:hover {
+  opacity: 0.9;
+  color: rgb(170, 3, 53);
+}

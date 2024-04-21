@@ -1,0 +1,27 @@
+.card {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid rgba(128, 128, 128, 0.753);
+}
+.imgWrapper {
+  min-width: 200px;
+  max-width: 250px;
+}
+.img {
+  width: 100%;
+}
+
+.score {
+  margin-bottom: 10px;
+}
+
+.overview {
+  margin-bottom: 10px;
+}
+.genres {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+}
